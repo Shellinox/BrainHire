@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631746388999",
+    "project_id": "brainhire-f6bf2",
+    "storage_bucket": "brainhire-f6bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631746388999:android:c0449b88db13b1276bf6a2",
+        "android_client_info": {
+          "package_name": "com.example.notesbazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631746388999-mepmvg9kfr201p98ean653o8j8pgjjg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notesbazaar",
+            "certificate_hash": "27ce0ec2cb4f1e0523f3c27868087d7acad20965"
+          }
+        },
+        {
+          "client_id": "631746388999-t8cdb91t5mgpdqvai80lp0p6uv0heoqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-TnG7klbEZG4duNMgyX7M8rqRbqSpdPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631746388999-t8cdb91t5mgpdqvai80lp0p6uv0heoqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
